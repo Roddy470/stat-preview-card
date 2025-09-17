@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Check solution here](https://your-solution-url.com)
+- Solution URL: [Check solution here](https://github.com/Roddy470/stat-preview-card)
 - Live Site URL: [Check live site here](https://your-live-site-url.com)
 
 ## My process
