@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Check solution here](https://github.com/Roddy470/stat-preview-card)
-- Live Site URL: [Check live site here](https://your-live-site-url.com)
+- Live Site URL: [Check live site here](https://stats-preview-card-io.netlify.app/)
 
 ## My process
 
